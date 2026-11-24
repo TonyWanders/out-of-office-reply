@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+/output/
+kit/
+*-kit/
+kit.tar.gz
+kit.zip
